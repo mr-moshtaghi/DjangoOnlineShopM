@@ -1,2 +1,1 @@
-# THIS IS MY DJANGO PROJECT
-[MONGARD](HTTPS://WWW.MONGARD.IR)
+# project online shop
